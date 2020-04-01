@@ -1,0 +1,2 @@
+# staticman
+my blog comments
